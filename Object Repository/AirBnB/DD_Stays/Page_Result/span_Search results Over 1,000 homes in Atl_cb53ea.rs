@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Search results Over 1,000 homes in Atl_cb53ea</name>
+   <tag></tag>
+   <elementGuidId>c31f1f98-5d3d-4957-95a9-5432cb4cd88e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ttkzbcj.atm_c8_9ni6hd.atm_g3_1flll2m.atm_fr_1u45igx.atm_cs_10d11i2.dir.dir-ltr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-content']/div/div/div/div/div/section/h1/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;stays-page-heading&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2e811dc3-21cb-4631-9282-1bcc366ba01b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ttkzbcj atm_c8_9ni6hd atm_g3_1flll2m atm_fr_1u45igx atm_cs_10d11i2 dir dir-ltr</value>
+      <webElementGuid>3570b80e-83de-41ae-9f05-9ef9def85ee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f20131b9-d529-4e03-823e-9b6e318ecc76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>stays-page-heading</value>
+      <webElementGuid>944fee47-4c70-4870-ba6c-4af2863e0e49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Over 1,000 homes in Atlanta</value>
+      <webElementGuid>7f5094b7-e280-4ed4-88cd-5f7c75262a50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-content&quot;)/div[@class=&quot;t259lg atm_gq_1ph3nq8 atm_h3_1ph3nq8 dir dir-ltr&quot;]/div[@class=&quot;c1yo0219 atm_9s_1txwivl_vmtskl atm_92_1yyfdc7_vmtskl atm_9s_1txwivl_9in345 atm_92_1yyfdc7_9in345 dir dir-ltr&quot;]/div[1]/div[@class=&quot;pvvdp4b atm_1c_1qa02d5 atm_y_dgicwn atm_12_1hrf63d atm_q_1kzeml1 atm_9s_1txwivl atm_ar_vrvcex atm_h_1h6ojuz atm_fc_1yb4nlp atm_cx_evh4rp atm_j6_o2hh0h dir dir-ltr&quot;]/div[@class=&quot;t1ww0f56 atm_9s_1txwivl atm_ar_1bp4okc atm_cx_i2wt44 atm_fc_1h6ojuz dir dir-ltr&quot;]/section[1]/h1[@class=&quot;hpipapi atm_7l_1kw7nm4 atm_c8_1x4eueo atm_cs_1kw7nm4 atm_g3_1kw7nm4 atm_gi_idpfg4 atm_l8_idpfg4 atm_kd_idpfg4_pfnrn2 dir dir-ltr&quot;]/span[@class=&quot;ttkzbcj atm_c8_9ni6hd atm_g3_1flll2m atm_fr_1u45igx atm_cs_10d11i2 dir dir-ltr&quot;]</value>
+      <webElementGuid>21f5b2b5-bed2-44d6-a325-a1be83aa3cfc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-content']/div/div/div/div/div/section/h1/span[2]</value>
+      <webElementGuid>ff738f75-1d05-475b-9eb2-603722c32594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search results; Over 1,000 homes in Atlanta'])[1]/following::span[1]</value>
+      <webElementGuid>d3d5dfd1-d678-4147-80c0-6c40e8a86ec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show map'])[1]/following::span[2]</value>
+      <webElementGuid>15eead7e-5593-41da-b7bd-fa6135ca1261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prices include all fees'])[1]/preceding::span[1]</value>
+      <webElementGuid>ee938bd4-17e0-473b-bc46-88f8ba30d122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Over 1,000 homes in Atlanta']/parent::*</value>
+      <webElementGuid>79d8d267-e0cd-43b3-84c6-0197e6ca0675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span[2]</value>
+      <webElementGuid>e53b7afd-b41a-41bd-a5a5-a206ca110eea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Over 1,000 homes in Atlanta' or . = 'Over 1,000 homes in Atlanta')]</value>
+      <webElementGuid>eabf11f1-e958-4962-9392-39f8364f1e08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

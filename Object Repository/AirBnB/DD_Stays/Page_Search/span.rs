@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>5554687f-e290-4552-82b3-d32643dcae68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='micro-flex-chips-']/div/label[4]/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=radiogroup >> internal:text=&quot;3 days&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>932afec2-7b63-4fee-acad-2d7b51df7d60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e5d3e872-30f8-4d38-8aa1-2a01ab30cef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3 days</value>
+      <webElementGuid>3a1e66d9-701c-4cb8-9fa6-254366966117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-application&quot;)/div[1]/div[@class=&quot;t1bgcr6e  cjz5kiq&quot;]/div[1]/div[1]/div[@class=&quot;r9m3m4o atm_eohtre_1wfwpv5 atm_1gwwzir_u29brm atm_eohtre_mm87nz__jx8car atm_1gwwzir_rw9lz9__jx8car dir dir-ltr&quot;]/div[1]/div[@class=&quot;m1wgxt7p atm_lcucu6_exct8b atm_ys9she_69rp3d__jx8car atm_ys9she_12mkxmp__1z0u2lb atm_lcucu6_1tcgj5g__kgj4qw atm_lcucu6_1tcgj5g__oggzyc atm_lcucu6_1vi7ecw__1v156lz atm_lcucu6_1vi7ecw__qky54b atm_lcucu6_fyhuej__jx8car dir dir-ltr&quot;]/div[@class=&quot;w1hvh9qj atm_mk_1if85x1 atm_tk_idpfg4 atm_vy_1osqo2v atm_wq_b4wlg atm_h3_1wmurcz dir dir-ltr&quot;]/div[@class=&quot;c1yo0219 atm_9s_1txwivl_vmtskl atm_92_1yyfdc7_vmtskl atm_9s_1txwivl_9in345 atm_92_1yyfdc7_9in345 dir dir-ltr&quot;]/div[1]/header[@class=&quot;c1ftp51f atm_9s_1txwivl atm_fc_1yb4nlp atm_h_1h6ojuz atm_gi_xjk4d9 atm_j3_1vvhni0 atm_lk_1ph3nq8 atm_ll_1ph3nq8 atm_e2_u29brm atm_lk_n9wab5__1v156lz atm_ll_n9wab5__1v156lz atm_lk_dnsvzo__jx8car atm_ll_dnsvzo__jx8car atm_e2_rw9lz9__jx8car dir dir-ltr&quot;]/form[@class=&quot;f1hztvqy atm_vy_1osqo2v atm_e2_1osqo2v atm_mk_stnw88 atm_tk_idpfg4 atm_fq_idpfg4 atm_lh_ke7zzc atm_wq_idpfg4 dir dir-ltr&quot;]/div[@class=&quot;csjaj27 atm_vy_1osqo2v atm_9s_1txwivl atm_h_1h6ojuz atm_ar_1bp4okc atm_mk_h2mmj6 atm_wq_kb7nvz atm_h3_ftgil2__jx8car dir dir-ltr&quot;]/div[1]/div[@class=&quot;cwxaa06 atm_mk_stnw88 atm_fq_1ssbidh atm_tr_zr6sja atm_j3_1v7idld atm_vy_1osqo2v atm_e2_1k4yqc2 atm_9s_1txwivl atm_5j_1vi7ecw atm_cx_1fwxnve atm_fc_1yb4nlp atm_h_1h6ojuz dir dir-ltr&quot;]/div[@class=&quot;p1gy195r atm_mk_stnw88 atm_vy_1osqo2v atm_e2_1wugsn5 atm_tk_1osqo2v atm_mj_glywfm atm_h3_1fwxnve dir dir-ltr&quot;]/div[@class=&quot;p1nt1a2q atm_mk_stnw88 atm_mj_1rj4a2z atm_aj_19ksii2 atm_8w_1rrkn1e dir dir-ltr&quot;]/div[@class=&quot;pkny13m atm_tw_n17gr9 atm_vy_1osqo2v atm_e2_1osqo2v atm_26_1p8m8iw atm_7i_1qlzsek dir dir-ltr&quot;]/div[@class=&quot;piqlc25 atm_vy_1osqo2v atm_e2_1osqo2v atm_l8_28hvra atm_9s_1txwivl atm_fc_1h6ojuz dir dir-ltr&quot;]/div[@class=&quot;ptpmekl atm_mk_stnw88 atm_j3_1an8f3t atm_vy_j4tbyo atm_l8_yqqfl2 atm_tk_idpfg4 atm_fq_idpfg4 atm_9s_1txwivl atm_fc_1h6ojuz atm_h_v2br90 atm_vy_1an8f3t__1v156lz pgigb2o atm_iy_1p2dahq atm_l0_zryt35 atm_l1_15zigw atm_l2_1f51e7f atm_p5_p27btl atm_9s_1ulexfb_14pyf7n atm_vy_1skhajo_14pyf7n atm_26_1j28jx2_15m0xli atm_2a_1ntvvq4_1v32vyo atm_2d_1qrrl4z_1v32vyo atm_5j_1skhajo_1v32vyo atm_3f_1p8s0ws_1v32vyo atm_h3_1pa919l_1s8n6b atm_gq_1pa919l_he8sou dir dir-ltr&quot;]/div[@class=&quot;t1cd0gxn atm_h_1h6ojuz atm_9s_1txwivl atm_fc_1h6ojuz f18xntj2 atm_vy_1osqo2v dir dir-ltr&quot;]/div[@id=&quot;tabs&quot;]/div[2]/div[@id=&quot;panel--tabs--0&quot;]/div[@class=&quot;d1xjigzy atm_h_1h6ojuz__7pk1ck atm_9s_1txwivl__7pk1ck atm_ar_1bp4okc__7pk1ck atm_fc_1h6ojuz__7pk1ck dir dir-ltr&quot;]/div[@id=&quot;micro-flex-chips-&quot;]/div[@class=&quot;h1hdfvnt atm_p9_glywfm atm_9s_glywfm_14pyf7n c1wlfnvs atm_l0_1wugsn5 atm_vv_1q9ccgz atm_9s_1txwivl atm_cx_19bvopo c1uny8fd atm_l8_kysjoz dir dir-ltr&quot;]/label[@class=&quot;c1ef8kub atm_9j_tlke0l atm_r3_1h6ojuz atm_3f_uuagnh atm_l8_idpfg4 atm_gi_idpfg4 atm_2d_1qwqy05 atm_4b_rke8ap atm_7l_jt7fhx atm_bx_48h72j atm_mk_h2mmj6 atm_uq_17liqq3 atm_ui_1bljbuh atm_uv_xoomkg atm_kd_glywfm atm_lo_evh4rp atm_le_evh4rp atm_j6_1vi7ecw atm_5j_qe0vi4 atm_c8_1uc0753 atm_g3_lonqig atm_fr_r7vles atm_lk_dlk8xv atm_ll_dlk8xv atm_7l_177r58q_1nos8r_uv4tnr atm_4b_lb1gtz_1nos8r_uv4tnr atm_7l_177r58q_csw3t1 atm_4b_lb1gtz_csw3t1 atm_tr_ybgkrq_csw3t1 atm_3f_glywfm_jo46a5 atm_l8_idpfg4_jo46a5 atm_gi_idpfg4_jo46a5 atm_3f_glywfm_1icshfk atm_kd_glywfm_19774hq atm_uc_aaiy6o_1w3cfyq atm_70_15w7q17_1w3cfyq atm_uc_glywfm_1w3cfyq_1rrf6b5 atm_uc_aaiy6o_1s76pf2 atm_70_15w7q17_1s76pf2 atm_uc_glywfm_1s76pf2_1rrf6b5 c1s1ko7x cg3b11m atm_9s_116y0ak atm_h_1h6ojuz dir dir-ltr&quot;]/span[@class=&quot;mp7a7yt atm_9s_1ulexfb dir dir-ltr&quot;]/span[1]</value>
+      <webElementGuid>db3db496-a270-40cf-905c-1ed4250e97a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='micro-flex-chips-']/div/label[4]/span[2]/span</value>
+      <webElementGuid>2b49d265-d3e8-4a36-bc46-6d5f86e342e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='±2 days'])[1]/following::span[3]</value>
+      <webElementGuid>e15e4538-1cb9-461f-ad6d-45938647ae47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='±1 day'])[1]/following::span[7]</value>
+      <webElementGuid>9173804e-566a-4af4-a7cd-26b2f660022b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='±3 days'])[1]/preceding::span[1]</value>
+      <webElementGuid>163bac9f-76b4-46a2-9b12-2a4ecf389afd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='±7 days'])[1]/preceding::span[4]</value>
+      <webElementGuid>ab7a5dd6-34a4-43db-9e29-5d03976b58ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='3 days']/parent::*</value>
+      <webElementGuid>807a401c-eeeb-496c-bf27-6e96a1fd6d47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[4]/span[2]/span</value>
+      <webElementGuid>1a5e0a03-da45-4212-987c-1368d1b2f167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '3 days' or . = '3 days')]</value>
+      <webElementGuid>d85d308f-08b7-4b69-8750-5308149f7683</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

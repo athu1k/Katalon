@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HRM_DD</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>25a9030e-3b13-4433-8806-caa1de06c2da</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ce679579-e197-4345-9920-786f6afa3432</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'victor.sen'</defaultValue>
+      <description></description>
+      <id>ce679579-e197-4345-9920-786f6afa3432</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+</TestCaseEntity>

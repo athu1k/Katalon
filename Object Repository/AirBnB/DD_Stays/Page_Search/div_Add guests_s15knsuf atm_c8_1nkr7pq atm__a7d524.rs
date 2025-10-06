@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add guests_s15knsuf atm_c8_1nkr7pq atm__a7d524</name>
+   <tag></tag>
+   <elementGuidId>054a8bf7-183f-4ed9-8e61-86671a4962c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.s15knsuf.atm_c8_1nkr7pq.atm_g3_1e1y0tv.atm_fr_yucz6i.atm_cs_10d11i2.atm_li_1y44olf.dir.dir-ltr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Add guests'])[1]/following::div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;structured-search-input-search-button&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>19e7ee67-ba99-4add-8af9-2612c045b649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>s15knsuf atm_c8_1nkr7pq atm_g3_1e1y0tv atm_fr_yucz6i atm_cs_10d11i2 atm_li_1y44olf dir dir-ltr</value>
+      <webElementGuid>044b1759-fe5e-40dd-a81e-4d36da4eb3fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>5c80e701-0cc0-4bbf-96c1-bff7d9342b21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-application&quot;)/div[1]/div[@class=&quot;t1bgcr6e  cjz5kiq&quot;]/div[1]/div[1]/div[@class=&quot;r9m3m4o atm_eohtre_1wfwpv5 atm_1gwwzir_u29brm atm_eohtre_mm87nz__jx8car atm_1gwwzir_rw9lz9__jx8car dir dir-ltr&quot;]/div[1]/div[@class=&quot;m1wgxt7p atm_lcucu6_exct8b atm_ys9she_69rp3d__jx8car atm_ys9she_12mkxmp__1z0u2lb atm_lcucu6_1tcgj5g__kgj4qw atm_lcucu6_1tcgj5g__oggzyc atm_lcucu6_1vi7ecw__1v156lz atm_lcucu6_1vi7ecw__qky54b atm_lcucu6_fyhuej__jx8car dir dir-ltr&quot;]/div[@class=&quot;w1hvh9qj atm_mk_1if85x1 atm_tk_idpfg4 atm_vy_1osqo2v atm_wq_b4wlg atm_h3_1wmurcz dir dir-ltr&quot;]/div[@class=&quot;c1yo0219 atm_9s_1txwivl_vmtskl atm_92_1yyfdc7_vmtskl atm_9s_1txwivl_9in345 atm_92_1yyfdc7_9in345 dir dir-ltr&quot;]/div[1]/header[@class=&quot;c1ftp51f atm_9s_1txwivl atm_fc_1yb4nlp atm_h_1h6ojuz atm_gi_xjk4d9 atm_j3_1vvhni0 atm_lk_1ph3nq8 atm_ll_1ph3nq8 atm_e2_u29brm atm_lk_n9wab5__1v156lz atm_ll_n9wab5__1v156lz atm_lk_dnsvzo__jx8car atm_ll_dnsvzo__jx8car atm_e2_rw9lz9__jx8car dir dir-ltr&quot;]/form[@class=&quot;f1hztvqy atm_vy_1osqo2v atm_e2_1osqo2v atm_mk_stnw88 atm_tk_idpfg4 atm_fq_idpfg4 atm_lh_ke7zzc atm_wq_idpfg4 dir dir-ltr&quot;]/div[@class=&quot;csjaj27 atm_vy_1osqo2v atm_9s_1txwivl atm_h_1h6ojuz atm_ar_1bp4okc atm_mk_h2mmj6 atm_wq_kb7nvz atm_h3_ftgil2__jx8car dir dir-ltr&quot;]/div[1]/div[@class=&quot;cwxaa06 atm_mk_stnw88 atm_fq_1ssbidh atm_tr_zr6sja atm_j3_1v7idld atm_vy_1osqo2v atm_e2_1k4yqc2 atm_9s_1txwivl atm_5j_1vi7ecw atm_cx_1fwxnve atm_fc_1yb4nlp atm_h_1h6ojuz dir dir-ltr&quot;]/div[@class=&quot;smjxy64 atm_mk_stnw88 atm_n3_idpfg4 atm_wq_cs5v99 atm_l8_19bvopo atm_mj_glywfm dir dir-ltr&quot;]/button[@class=&quot;siey6h7 atm_1s_glywfm atm_26_1j28jx2 atm_3f_idpfg4 atm_7l_1kw7nm4 atm_9j_tlke0l atm_9s_1o8liyq atm_bx_1kw7nm4 atm_c8_1kw7nm4 atm_cs_1kw7nm4 atm_g3_1kw7nm4 atm_gi_idpfg4 atm_ks_ewfl5b atm_l8_idpfg4 atm_r3_1kw7nm4 atm_rd_glywfm atm_vb_1wugsn5 atm_kd_glywfm atm_mj_1rj4a2z atm_3f_glywfm_jo46a5 atm_l8_idpfg4_jo46a5 atm_gi_idpfg4_jo46a5 atm_3f_glywfm_1icshfk atm_kd_glywfm_19774hq atm_70_1kppo7g_1w3cfyq sz7m38k atm_5j_1tcgj5g dir dir-ltr&quot;]/div[@class=&quot;s1n779tz atm_26_3ib6or_1nos8r s1tip1vt atm_26_3ib6or atm_7l_1p8m8iw atm_e2_fyhuej atm_vy_1wugsn5 atm_9s_1txwivl atm_fc_1h6ojuz atm_h_1h6ojuz atm_l8_19bvopo atm_cx_ftgil2 dir dir-ltr&quot;]/div[@class=&quot;s15knsuf atm_c8_1nkr7pq atm_g3_1e1y0tv atm_fr_yucz6i atm_cs_10d11i2 atm_li_1y44olf dir dir-ltr&quot;]</value>
+      <webElementGuid>2534ba40-02b0-4829-b514-2047c642c0f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-application']/div/div/div/div/div/div/div[2]/div/div/div/header/form/div/div/div[2]/div[3]/button/div/div[2]</value>
+      <webElementGuid>4b23d273-a4a3-4e7a-843d-bd1a1c55a2a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add guests'])[1]/following::div[4]</value>
+      <webElementGuid>5bae8bee-1405-48d5-a8a0-3d96ef6ea49d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Who'])[1]/following::div[6]</value>
+      <webElementGuid>fe755017-fefe-436b-ab2e-d95aa8d198db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dates'])[1]/preceding::div[1]</value>
+      <webElementGuid>77600465-c9a2-4543-affd-bb2dab74514c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Months'])[1]/preceding::div[1]</value>
+      <webElementGuid>07927861-acf2-4ae2-9275-9673fa83c193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
+      <webElementGuid>502989be-c3d5-4813-a030-2ea76cf897c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div[2]</value>
+      <webElementGuid>e9ae1028-f2aa-4eae-b751-bca4b432043b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Search' or . = 'Search')]</value>
+      <webElementGuid>af604b84-b266-49fe-8c53-39c441689d42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
